@@ -22,7 +22,3 @@ To build, use the [circuit model](https://www.tinkercad.com/things/2toZZJSoFDk?s
 
 **How to upload code?**
 Install the latest version of the Arduino IDE [here](https://www.arduino.cc/en/software). Follow the steps on the website on how to upload your code to the Arduino microcontroller.
-
-**Images, for reference**
-
-![image](https://github.com/kvaikunthan/perfect-park-garage/assets/66136428/a6dad2a3-9a15-4cd1-a206-7038c9fb647d)
